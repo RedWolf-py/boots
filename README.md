@@ -1,2 +1,3 @@
-# boots para instagram 
-curti comenta fotos dos amigos do instagram e das hashtag
+# bot para instagram 
+curti e comenta as fotos dos amigos e das hashtag no instagram!!!
+sem banimentos !!!
